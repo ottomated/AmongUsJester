@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fhome_002Fotto_002FDownloads_002F21_002E01_002E07_002D_002DJan_002FOldUnityBuild_002F5582664_002FAmong_0020Us_005FData_002FManaged_002FAssembly_002DCSharp_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
+  &lt;Assembly Path="/home/otto/Downloads/21.01.07--Jan/OldUnityBuild/5582664/Among Us_Data/Managed/Assembly-CSharp.dll" /&gt;
+&lt;/AssemblyExplorer&gt;</s:String>
+	
+	</wpf:ResourceDictionary>
